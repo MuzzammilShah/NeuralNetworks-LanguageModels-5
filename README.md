@@ -51,6 +51,6 @@ For a better reading experience and detailed notes, visit my **[Road to GPT Docu
 &nbsp;
 
 ### **✍🏻Acknowledgments**
-Notes and implementations inspired by the **Makemore - Part 3** video by [Andrej Karpathy](https://karpathy.ai/).  
+Notes and implementations inspired by the **Makemore - Part 5** video by [Andrej Karpathy](https://karpathy.ai/).  
 
 For more of my projects, visit my [Portfolio Site](https://muhammedshah.com).
